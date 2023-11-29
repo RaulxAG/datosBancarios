@@ -12,6 +12,8 @@
         <label for="fechaexp">Fecha exp.</label>
         <input type="date" name="fechaexp" id="fechaexp" required>
         <input type="text" name="titular" id="titular" placeholder="Nombre del titular" required>
+
+        <input type="submit" value="Enviar">
     </form>
 </body>
 </html>
